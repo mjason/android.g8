@@ -1,4 +1,4 @@
-package $package
+package $package$
 
 import android.app.Activity
 import andorid.os.Bundle

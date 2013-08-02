@@ -1,6 +1,6 @@
 androidDefaults
 
-name := "$name"
+name := "$name$"
 
 // Version of your app
 version := "0.1"
@@ -9,9 +9,9 @@ version := "0.1"
 versionCode := 0
 
 // Version of Scala
-scalaVersion := "$scala_version"
+scalaVersion := "$scala_version$"
 
 // Version of the Android platform SDK
-platformName := "android-$sdk_version"
+platformName := "android-$sdk_version$"
 
 useProguard := true
