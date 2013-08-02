@@ -5,8 +5,8 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="$sdk_version"
-        android:targetSdkVersion="$sdk_version" />
+        android:minSdkVersion="$sdk_version$"
+        android:targetSdkVersion="$sdk_version$" />
 
     <application
         android:allowBackup="true"
